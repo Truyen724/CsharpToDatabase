@@ -1,0 +1,12 @@
+c:\users\pm\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+Z:\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+Z:\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+Z:\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+Z:\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+Z:\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+Z:\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+Z:\WindowsFormsApplication1\bin\Debug\Database11.accdb
