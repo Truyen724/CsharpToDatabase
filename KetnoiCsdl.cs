@@ -11,9 +11,9 @@ using System.Data.SqlClient;
 
 namespace WindowsFormsApplication1
 {
-    public partial class Form1 : Form
+    public partial class KetnoiCsdl : Form
     {
-        public Form1()
+        public KetnoiCsdl()
         {
             InitializeComponent();
         }

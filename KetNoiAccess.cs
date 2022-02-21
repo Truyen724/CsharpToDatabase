@@ -11,9 +11,9 @@ using System.Data.OleDb;
 
 namespace WindowsFormsApplication1
 {
-    public partial class Form2 : Form
+    public partial class KetNoiAccess : Form
     {
-        public Form2()
+        public KetNoiAccess()
         {
             InitializeComponent();
         }
